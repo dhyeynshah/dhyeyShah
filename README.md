@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhyey Shah
+Hey There👋 
 ==================================================================================================================================
 
-Machine Learning Enthusiast
+I'm Dhyey and I'm a Machine Learning Enthusiast. I started coding 2 years ago and my main programming language is Python. 
 ---------------------------
 
 * 🌍  I'm based in North Carolina
